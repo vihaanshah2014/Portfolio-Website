@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88c1a9fb.css",
+    "main.js": "/static/js/main.eb32637b.js",
+    "static/media/portfolio.jpg": "/static/media/portfolio.0916447347261367729a.jpg",
+    "static/media/work1.png": "/static/media/work1.95664a3bd5c6eeeba180.png",
+    "static/media/work3.png": "/static/media/work3.4724ec197a6f4c0c07c9.png",
+    "static/media/work2.png": "/static/media/work2.9f95876569efc9d0a114.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.80869b1efd97db89bba2.jpg",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/work6.png": "/static/media/work6.d2bbc5cce5d921f27564.png",
+    "static/media/Resume-Vihaan_Shah.pdf": "/static/media/Resume-Vihaan_Shah.1d363c59945501f21266.pdf",
+    "static/media/work5.png": "/static/media/work5.5101b35d40e40940215d.png",
+    "static/media/work4.png": "/static/media/work4.7433f2913841469c9012.png",
+    "index.html": "/index.html",
+    "main.88c1a9fb.css.map": "/static/css/main.88c1a9fb.css.map",
+    "main.eb32637b.js.map": "/static/js/main.eb32637b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88c1a9fb.css",
+    "static/js/main.eb32637b.js"
+  ]
+}
